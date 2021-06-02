@@ -1,6 +1,6 @@
 ## Unofficial DP50V5A Power Suppler Control Module User Guide
 
-![DP50V5A User Guide](https://https://github.com/e-tinkers/DP50V5A_user_guide/blob/master/DP50V5A_Power_Supply_Control_Module.jpg "DP50V5A Power Suppler Control Module")
+![DP50V5A User Guide](https://github.com/e-tinkers/DP50V5A_user_guide/blob/master/DP50V5A_Power_Supply_Control_Module.jpg "DP50V5A Power Suppler Control Module")
 
 This is not the official User Guide, the English on the original user guide is confusing and sometime incomprehensivable, I created this for my own reference.
 
